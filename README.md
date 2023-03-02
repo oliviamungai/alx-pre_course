@@ -1,1 +1,1 @@
-I an a learning Software Engineer
+I am a Software Engineer
