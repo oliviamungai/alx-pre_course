@@ -1,1 +1,1 @@
-my first readme updated
+I an a learning Software Engineer
